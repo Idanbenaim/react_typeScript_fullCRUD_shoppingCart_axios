@@ -121,9 +121,8 @@ const App: React.FC = () => {
 export default App;
 
 
+// Difference from React app to TypeScript:
 
 // I've added types to the `Product` and `CartItem` interfaces to make it clear what kind of data each variable represents. 
 // I've also updated the state variable names to follow TypeScript naming conventions, 
 // and added explicit types to the state variables to make it clear what kind of data they represent.
-
-// I hope this helps! Let me know if you have any questions.

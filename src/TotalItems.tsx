@@ -25,5 +25,6 @@ const TotalItems: React.FC<Props> = (props) => {
 
 export default TotalItems
 
+// Difference from React app to TypeScript:
 // I've added an interface for the Props to define the types of the cart and updCart props. 
 // I've also updated the function declaration to use the arrow function syntax and specify the return type as a React.FC.

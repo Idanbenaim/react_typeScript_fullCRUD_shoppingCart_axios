@@ -50,6 +50,8 @@ const DisCart = (props: DisCartProps) => {
 
 export default DisCart;
 
+// Difference from React app to TypeScript:
+
 // I've added types to the CartItem interface and 
 // updated the DisCartProps interface to include types for the props. 
 
