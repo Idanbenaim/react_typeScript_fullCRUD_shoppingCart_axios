@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "desc": "pasta",
+      "price": 12
+    },
+    {
+      "id": 2,
+      "desc": "krembo",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "desc": "jahnoon",
+      "price": 10
+    },
+    {
+      "desc": "Bamba",
+      "price": 8.5,
+      "id": 4
+    },
+    {
+      "desc": "Bisli",
+      "price": 6.5,
+      "id": 5
+    },
+    {
+      "desc": "Peanuts",
+      "price": 5.5,
+      "id": 6
+    },
+    {
+      "desc": "Shira's Bun",
+      "price": 9,
+      "id": 7
+    }
+  ]
+}
